@@ -1,7 +1,7 @@
 # Password Generator App
 
 A professional React Native application that generates secure passwords based on user preferences. The user can control the number of characters in the password and customize the complexity (e.g., including numbers, special characters, and uppercase letters).
-![App Screenshot](./assets/gifapppass.png)
+![App Screenshot](./assets/gifapppass.gif)
 
 
 ## Features
